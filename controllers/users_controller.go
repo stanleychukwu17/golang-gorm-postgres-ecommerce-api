@@ -8,8 +8,8 @@ import (
 	"github.com/gofiber/fiber/v2"
 	"gorm.io/gorm"
 
-	"github.com/stanleychukwu17/graphql-fullstack-template-with-example/server-golang/models"
-	"github.com/stanleychukwu17/graphql-fullstack-template-with-example/server-golang/utils"
+	"github.com/stanleychukwu17/golang-gorm-postgres-ecommerce-api/models"
+	"github.com/stanleychukwu17/golang-gorm-postgres-ecommerce-api/utils"
 )
 
 type UsersController struct {

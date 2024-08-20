@@ -8,9 +8,9 @@ import (
 	"github.com/gofiber/fiber/v2"
 	"github.com/joho/godotenv"
 
-	"github.com/stanleychukwu17/graphql-fullstack-template-with-example/server-golang/database"
-	"github.com/stanleychukwu17/graphql-fullstack-template-with-example/server-golang/models"
-	"github.com/stanleychukwu17/graphql-fullstack-template-with-example/server-golang/routes"
+	"github.com/stanleychukwu17/golang-gorm-postgres-ecommerce-api/database"
+	"github.com/stanleychukwu17/golang-gorm-postgres-ecommerce-api/models"
+	"github.com/stanleychukwu17/golang-gorm-postgres-ecommerce-api/routes"
 )
 
 func main() {

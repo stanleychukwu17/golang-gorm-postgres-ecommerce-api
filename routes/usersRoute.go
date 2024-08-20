@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/stanleychukwu17/graphql-fullstack-template-with-example/server-golang/controllers"
+	"github.com/stanleychukwu17/golang-gorm-postgres-ecommerce-api/controllers"
 	"gorm.io/gorm"
 )
 
